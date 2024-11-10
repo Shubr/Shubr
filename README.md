@@ -4,7 +4,5 @@
 <p>Software developer with a strong foundation in IT and a passion for creating innovative digital solutions. Recent graduate with hands-on experience in C#, SQL, and web, complemented by customer service skills from retail work.</p>
 
 
-<div style="display:flex">
 <a href="https://www.linkedin.com/in/shubham-rangra-558146239/" target="_blank"><img src="https://img.icons8.com/?size=100&id=IuI5Yd3J3qcC&format=png&color=FAB005"/></a>
-
-<a href="https://x.com/Shub_r16"><img src="https://img.icons8.com/?size=100&id=8RAOGCjHC5I3&format=png&color=FAB005"/></a><div>
+<a href="https://x.com/Shub_r16"><img src="https://img.icons8.com/?size=100&id=8RAOGCjHC5I3&format=png&color=FAB005"/></a>
