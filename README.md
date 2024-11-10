@@ -1,6 +1,6 @@
 ![myBackground](https://github.com/user-attachments/assets/be7b57f1-b6c8-46ec-ac63-4f602516c18d)
 
-<h1 styel="color:#FFD700">Shubham.R</h1>
+<h1 style="color:#FFD700">Shubham.R</h1>
 <p>Software developer with a strong foundation in IT and a passion for creating innovative digital solutions. Recent graduate with hands-on experience in C#, SQL, and web, complemented by customer service skills from retail work.</p>
 
 
