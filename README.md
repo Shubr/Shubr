@@ -8,3 +8,4 @@
 <a href="https://x.com/Shub_r16" targe="_"><img src="https://img.icons8.com/?size=100&id=8RAOGCjHC5I3&format=png&color=FAB005"/></a>
 <a href="https://www.shub.website"><img src="https://img.icons8.com/?size=100&id=7gn1JUOaj7KZ&format=png&color=FAB005"/></a>
 <a href="https://www.facebook.com/ShubhamR2000/"><img src="https://img.icons8.com/?size=100&id=8818&format=png&color=FAB005"/></a>
+<a href="https://www.reddit.com/user/Shub_rz/"><img src="https://img.icons8.com/?size=100&id=12518&format=png&color=FAB005"/></a>
