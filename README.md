@@ -3,7 +3,7 @@
 <h1>Shubham.R</h1>
 <p>Software developer with a strong foundation in IT and a passion for creating innovative digital solutions. Recent graduate with hands-on experience in C#, SQL, and web, complemented by customer service skills from retail work.</p>
 
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=shubr&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubr&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubr&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
