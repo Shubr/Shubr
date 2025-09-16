@@ -4,10 +4,6 @@
 <p>Software developer with a strong foundation in IT and a passion about createing new application and problem solving, recently graduated with Diploma In ICT(Information Communication Technology.</p>
 
 
-![](https://github-readme-stats.vercel.app/api?username=shubr&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubr&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-rangra-558146239/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15519435/hto-android)
