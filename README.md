@@ -8,6 +8,12 @@
  * Web Developer - React, Veu, Vanilla
  * Desktop App - C#
 
+# Projects
+* To-Do app
+* Google chrome extension for highlighting
+* Reddit Wrapper
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-rangra-558146239/) 
