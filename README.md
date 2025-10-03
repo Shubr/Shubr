@@ -1,20 +1,5 @@
 ![myBackground](https://github.com/user-attachments/assets/be7b57f1-b6c8-46ec-ac63-4f602516c18d)
 
-<h1>Shubham.R</h1>
-<p>Software developer with a strong foundation in IT and a passion about createing new application and problem solving, recently graduated with Diploma In ICT(Information Communication Technology.</p>
-
-# About me
- * Mobile Developer - Flutter, Native Android
- * Web Developer - React, Veu, Vanilla
- * Desktop App - C#
-
-# Projects
-* To-Do app
-* Google chrome extension for highlighting
-* Reddit Wrapper
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-rangra-558146239/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15519435/hto-android)
